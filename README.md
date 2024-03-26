@@ -3,13 +3,13 @@ ChromAsym is an R package designed to calculate the asymmetry factor for chromat
 
 ## Installation
 
-You can install the latest development version of PeakAsymmetryFactor from GitHub with:
+You can install the latest development version of ChromAsym from GitHub with:
 
     install.packages(path_to_file, repos = NULL, type="source")
 
 ## Usage
 
-To use PeakAsymmetryFactor, first, load the package:
+To use ChromAsym, first, load the package:
 
     library(ChromAsym)
 
@@ -25,6 +25,6 @@ Calculate the asymmetry factor of a peak by using the function 'ChromAsym':
 
 ## License
 
-PeakAsymmetryFactor is released under the GNU General Public License Version 3. See the LICENSE file for more details.
+ChromAsym is released under the GNU General Public License Version 3. See the LICENSE file for more details.
 
 For questions and feedback, please open an issue on the GitHub issue tracker.
