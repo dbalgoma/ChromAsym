@@ -29,7 +29,7 @@ Calculate the asymmetry factor of a peak by using the function 'ChromAsym':
 
 ## Limitation
 
-It is only applicable to single peaks
+It is only applicable to single peaks.
 
 ## License
 
