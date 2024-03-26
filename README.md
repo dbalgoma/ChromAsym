@@ -5,8 +5,7 @@ ChromAsym is an R package designed to calculate the asymmetry factor for chromat
 
 You can install the latest development version of PeakAsymmetryFactor from GitHub with:
 
-    install.packages("devtools")
-    devtools::install_github("dbalgoma/ChromAsym")
+    install.packages(path_to_file, repos = NULL, type="source")
 
 ## Usage
 
