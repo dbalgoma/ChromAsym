@@ -5,7 +5,11 @@ ChromAsym is an R package designed to calculate the asymmetry factor for chromat
 
 You can install the latest development version of ChromAsym from GitHub with:
 
-    install.packages(path_to_file, repos = NULL, type="source")
+    install.packages(
+      "https://github.com/dbalgoma/ChromAsym/releases/download/ChromAsym_0.1.0/ChromAsym_0.1.0.tar.gz", 
+      repos = NULL, 
+      type = "source"
+    )
 
 ## Usage
 
