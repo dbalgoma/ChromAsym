@@ -27,6 +27,10 @@ Calculate the asymmetry factor of a peak by using the function 'ChromAsym':
    Asymmetry Factor Calculation: Provides a simple function to calculate the asymmetry factor, an important metric in chromatography for peak evaluation.    
    Visualization: Offers plotting functions to visualize chromatographic peaks and their asymmetry.
 
+## Limitation
+
+It is only applicable to single peaks
+
 ## License
 
 ChromAsym is released under the GNU General Public License Version 3. See the LICENSE file for more details.
